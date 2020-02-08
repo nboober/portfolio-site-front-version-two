@@ -11,6 +11,21 @@
 *	Edit this section
 *
 * ======================================================= */
+
+.icon-container{
+  width: 100%;
+  text-align: center;
+}
+
+.icon-size{
+  width: 40px;
+}
+
+.invert-color:hover{
+  -webkit-filter: invert();
+  filter: invert();
+}
+
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
